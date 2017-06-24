@@ -21,6 +21,9 @@ h4{text-align: center;}
 table{width:800px;height:240px;text-align:center;margin:0px auto;}
 caption{font-size:24px;font-weight:bolder;color:pink;padding-bottom: 5px;padding-top: 10px;}
 tr:hover td{background-color:pink;}
+.table{width:1000px;margin:20px auto;text-size:12px;padding-left:200px;}
+.table img{float:left;}
+.table textarea{width:500px;height:50px;}
 /*底脚*/
 .footer {
 	background:url(images/foot1.png);
