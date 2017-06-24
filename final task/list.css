@@ -1,0 +1,49 @@
+/*页面顶部*/
+.logo{width:1000px;height:100px;margin:0px auto;}
+.search{width:180px;height:56px;float:right;padding:10px 0;margin-top:22px;}
+.search1{width:136px;height:36px;float:left;}
+.search2{width:44px;height:36px;float:left;}
+.sou{height:30px;margin:0px;border:1px solid #f8f5ee;}
+.an{background-color:pink;height:30px;border:1px solid #f8f5ee;margin: 0px;color:white;}
+.dao{width:100%;height:40px;background-color:pink;}
+.dao1{width:1000px;margin:0px auto;}
+.dao2{width:200px;height:40px;float:left;list-style:none;}
+.dao2 a{color:#FFF;width:65px;line-height:40px;font-weight:bold;text-align:center;
+		text-decoration:none;}
+.dao2 a:hover{color:#87CEFA;text-decoration:none;}
+.banner{width:100%;}
+/*页面主体*/
+.bread{width:1000px;height:30px;margin:0px auto;line-height:30px;}
+.bread a{text-decoration: none;}
+.big{width:1000px;height:750px;margin:20px auto 10px;}
+.big1{width:280px;height:748px;float:left;border:1px solid #999999;}
+.list1{width:280px;height:200px;}
+.list1 ul li{height:30px;}
+.list1 a:hover{color:pink;}
+.un{font-weight:bold;font-weight:"仿宋";}
+.pic{width:280px;height:200px;padding-left:15px;}
+.big2{float:left;}
+.small{text-align: center;}
+.big2 ul{list-style-type: square;}
+.big2 ul li{line-height:30px;}
+.ai{width:718px;height:750px;float:left;}
+.list2{width:660px;height:410px;margin-left:50px;margin-bottom:10px;font-family:"微软雅黑";
+	background-image: url("images/doc2.jpg")}
+.pink{background-color:pink;}
+.blue{background-color:#87CEFA;}
+.shuqing{width:660px;height:310px;margin-left:50px;background-image: url("images/doc3.jpg")}
+.no{weight:660px;height:40px;text-align:center;font-weight:bolder;line-height:40px;}
+.shuqing p{text-indent:1em;}
+/*底脚*/
+.footer {
+	background:url(images/foot1.png);
+	background-position:center;
+	width:100%;height:105px;
+	padding:30px 0 0 0;
+	text-align:center;
+	clear:both;}
+.footer h1{	
+	font-size:12px;}
+.footer p{ 
+	margin-top:10px;}
+
